@@ -5,7 +5,7 @@ Router.configure({
 
 Router.route('/', function () {
     this.render('firstPage');
-    this.layout('mainNav');
+    this.layout('main');
 });
 
 
