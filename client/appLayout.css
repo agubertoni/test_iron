@@ -1,0 +1,58 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.fila {
+    max-width: 925px;
+    margin: 20px auto;
+    overflow: auto;
+    /* border: dotted black 2px; */
+}
+
+.columna {
+    max-width: 450px;
+    border-color: white;
+    /* border: dotted red 2px; */
+    float: left;
+}
+
+.home {
+    width: 150px;
+    height: 100px;
+    float: left;
+    background-color: #636365;
+}
+
+.wiot {
+    max-width: 775px;
+    height: 100px;
+    background-color: #E9E9E9;
+    margin-left: 150px;
+}
+
+.tank {
+    width: 150px;
+    background-color: #636365;
+    height: 150px;
+    float: left;
+}
+
+.desc {
+    width: 300px;
+    background-color: #E9E9E9;
+    height: 150px;
+    margin-left: 150px;
+}
+
+.right {
+    margin-right: 25px;
+}
+
+.smallcuad {
+    width: 75px;
+    height: 75px;
+    float: right;
+    background-color: #BF282E;
+}
